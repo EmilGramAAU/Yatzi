@@ -51,10 +51,11 @@ int main(void) {
     // STRUCT ARRAY OF ROUNDS
     Round rounds[ROUNDS];
 
-    int n = -1, bonus = 0;
+    int n = -1;
 
     while(n != 0) {
         n = scan_dice();
+        int bonus = 0;
 
         if(n) {
             roll_multiple_dice(rounds, n);
