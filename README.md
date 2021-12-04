@@ -1,2 +1,4 @@
 # Yatzi
-Eksamensopgave 2
+Eksamensopgave 2  
+Software Engineer  
+Aalborg Universitet København  
