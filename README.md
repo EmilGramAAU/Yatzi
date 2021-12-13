@@ -1,5 +1,5 @@
 # Yatzi
 Eksamensopgave 2  
-1. Semester  
+Semester 1    
 Software Engineer  
 Aalborg Universitet København  
